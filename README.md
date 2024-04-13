@@ -1,4 +1,4 @@
-# Making-VM-Vulnerable
+# Making the virtual machine vulnerable
 
 ## Intro
 

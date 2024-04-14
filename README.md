@@ -1,5 +1,7 @@
 # Making the virtual machine vulnerable
 
+![image](https://github.com/Ashrafs-Tech/Virtual-Machine-for-Vulnerabilites/assets/166546026/11f4af76-79dd-4b48-850e-db311fb3bc0a)
+
 ## Intro
 
 Now I will make the Windows virtual machine insecure.
